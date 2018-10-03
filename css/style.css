@@ -5,7 +5,7 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-  background-image: url("images/piggy_smalls.jpg");
+  background-image: url("./images/piggy_smalls.jpg");
   background-size: cover; 
   background-repeat: no-repeat;
    background-attachment: fixed;
